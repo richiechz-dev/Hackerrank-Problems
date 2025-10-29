@@ -33,4 +33,4 @@ print(
 )  # se anexa la variable mas ":.6f" que significa que queremos 6 espacios de deciamal
 
 print(f"el ratio de los numeros positivos es: {ratio_negative:.6f}")
-print(f"el ratio de los numeros positivos es: {zero:.6f}")
+print(f"el ratio de los numeros positivos es: {ratio_zero:.6f}")
